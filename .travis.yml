@@ -1,4 +1,4 @@
 language: generic
 script:
-  - bash -e ./saidai.bash
+  - bash -e ./saidai.bash 3 6
 
