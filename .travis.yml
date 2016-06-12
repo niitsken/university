@@ -1,3 +1,4 @@
 nguage: generic
-script: - bash -e ./saidai.bash 5 10
-script: - bash -e ./saidai.bash 15 6
+script:
+  - bash -e ./saidai.bash 3 6
+
