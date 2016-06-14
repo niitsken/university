@@ -1,4 +1,4 @@
-nguage: generic
+language: generic
 script:
   - bash -e ./test.bash 3 6
 script:
